@@ -7,7 +7,7 @@ As a seasoned professional with a diverse background in information security, re
 
 My journey in data protection has led me to develop a passion for cybersecurity, and I am now eager to transition into the cybersecurity field.
 
-## Cloud Projects
+## Cybersecurity Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,7 +18,7 @@ My journey in data protection has led me to develop a passion for cybersecurity,
 
 
 
-## Cybersecurity Projects
+## Cloud Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
